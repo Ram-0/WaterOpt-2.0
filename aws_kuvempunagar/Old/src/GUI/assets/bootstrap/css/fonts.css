@@ -1,0 +1,42 @@
+ 
+@font-face {
+    font-family: 'Montserrat';
+    src: url('Montserrat.ttf');
+}
+
+@font-face {
+    font-family: 'Montserrat-light';
+    src: url('../fonts/Montserrat-Light.otf');
+}
+
+@font-face {
+    font-family: 'UbuntuRegular';
+    src: url('../fonts/UbuntuRegular.ttf');
+}
+
+@font-face {
+    font-family: 'UbuntuM';
+    src: url('../fonts/Ubuntu-M.ttf');
+}
+
+@font-face {
+    font-family: 'segoe';
+    src: url('../fonts/segoeui.ttf');
+}
+
+h1, h2, h3, h4, h5, h6 { font-family: 'segoe', sans-serif !important; color: gray !important; }
+
+label,header,input,select { font-family: 'segoe' !important; color: dimgray !important; }
+
+button { font-family: 'segoe' !important; }
+
+.btn-def{
+   border-radius:0rem !important;
+   color: white !important;
+   padding-left: 12px !important;
+   padding-right: 12px !important;
+}
+
+td {font-family: 'segoe' !important; font-size: 1rem; color: dimgray !important;}
+
+.segoe-style{font-family: 'segoe' !important; font-size: 1rem; color: dimgray !important;}

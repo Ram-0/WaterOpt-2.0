@@ -1,0 +1,59 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+epanet_wateropt
+epanet2
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Input/Output Files
+Output-20*.csv
+output.csv
+Job-Output.csv
+Tank-Simulation-Output*.csv
+Valve-Output*.csv
+Tank-Output*.csv
+Valve-Simulation-Output*.csv
+tank.csv
+valve.csv
+sim_tank.csv
+sim_valve.csv
+*.csv~
+
+# Log files
+*.log
+
+# Doxygen output
+doxygen_out/
+
+#node modules
+node_modules/*
+
+#Log
+Log/*
+
+# Mac Stuff
+.DS_Store
+*.swp
+*~.nib
+*.build/
+DerivedData/
+Debug/
+
+*.xcodeproj/
+!*.xcodeproj/project.pbxproj
+
+*.mode1v3
+*.mode2v3
+
+*.c~
+temp.out
+*.out
+en*
